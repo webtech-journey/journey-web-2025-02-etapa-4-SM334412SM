@@ -1,15 +1,13 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - SM334412SM
 
-**Data:** 08/05/2025 18:52
+**Data:** 08/05/2025 18:54
 
-**Nota Final:** `84.00/100`
+**Nota Final:** `92.00/100`
 **Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `1` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_bootstrap_js_included`
-    - **Melhoria sugerida**: O JS do Bootstrap está ausente. Certifique-se de incluir o arquivo JS do Bootstrap para garantir que os componentes interativos funcionem.
+- Todos os requisitos básicos foram atendidos. Excelente trabalho!
 
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `3` bônus! Excelente trabalho nos detalhes adicionais!
